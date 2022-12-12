@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.header_rule {
+    display: block;
+    width: 100%;
+}
+.navbar {
+    float: left;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 4px;
+    padding-bottom: 14px;
+    background-color: #3D3DEF;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    display: block;
+}
+.wrapper {
+    margin-top: 49px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+    padding-right: 14px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #EA4212;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: #9D29EB;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+footer {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    color: #99C3CB;
+    background-color: #DB56EC;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
